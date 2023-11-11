@@ -2,7 +2,6 @@
 
 int main()
 {
-    int i, aux, n, j;
 
     int matriz[] = {-2, 45, 0, 11, -9};
 
